@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Juan Jose Jaramillo Mora
 
-<!--
-**Juanjo1414/Juanjo1414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Systems and Computing Engineering student at **Universidad EIA**  
+💻 Focused on **software development**, **backend systems**, and **data-oriented solutions**
 
-Here are some ideas to get you started:
+I am interested in understanding how software systems work end-to-end, from backend logic and APIs to data persistence and system structure. I focus on building clean, maintainable, and scalable solutions, applying good software engineering practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am strengthening my foundations in backend development, databases, and software architecture, while exploring how modern technologies such as artificial intelligence can be applied to real-world systems.
+
+---
+
+## 🛠️ Technical Stack
+
+### Programming Languages
+- JavaScript  
+- TypeScript  
+- Java (basic)  
+- Python (basic)
+
+### Backend Development
+- Node.js  
+- NestJS  
+- RESTful APIs  
+- TypeORM  
+
+### Frontend Development
+- React  
+- Vite  
+- Tailwind CSS  
+
+### Databases
+- SQL  
+- Relational Databases  
+- Non-Relational Databases  
+
+### Areas of Interest
+- Software Architecture  
+- Backend Systems  
+- Applied Artificial Intelligence  
+- Generative Models  
+- Retrieval-Augmented Generation (RAG)  
+- Basic Computer Vision  
+
+### Tools & Practices
+- Git & GitHub  
+- API Design  
+- UML  
+- SCRUM  
+
+---
+
+## 📚 Education & Certifications
+
+- **Systems and Computing Engineering** – Universidad EIA  
+- **Diploma in Java Programming** – Politécnico de Colombia  
+- **Young Innovators with AI** – XSTEM  
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/Juanjo1414  
+- LinkedIn: https://www.linkedin.com/in/juanjosejaramillomora/ 
