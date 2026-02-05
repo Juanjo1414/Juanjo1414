@@ -53,8 +53,9 @@ Currently, I am strengthening my foundations in backend development, databases, 
 
 - **Systems and Computing Engineering** – Universidad EIA  
 - **Diploma in Java Programming** – Politécnico de Colombia  
+- **Diploma in JavaScript Programming** – Politécnico de Colombia  
 - **Young Innovators with AI** – XSTEM  
-
+ 
 ---
 
 ## 📫 Contact
